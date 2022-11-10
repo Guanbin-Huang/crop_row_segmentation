@@ -1,0 +1,1 @@
+python val.sh --amp --scale 1 --output output

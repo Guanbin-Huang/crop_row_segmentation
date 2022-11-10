@@ -2,3 +2,5 @@ checkpoints
 data
 wandb
 *.pyc
+*.pth
+*.pt
